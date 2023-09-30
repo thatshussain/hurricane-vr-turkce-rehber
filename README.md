@@ -16,4 +16,3 @@
 - [Tırmanma Mekaniği](https://github.com/thatsquecy/hurricane-vr-turkce-rehber)
 - [Eşyalar İçin Yuva Sistemi](https://github.com/thatsquecy/hurricane-vr-turkce-rehber)
 - [Kesici, Delici Aletlerin Saplanma Mekaniği](https://github.com/thatsquecy/hurricane-vr-turkce-rehber)
-- **...**
