@@ -4,7 +4,9 @@
 
 ## **Tıkla-Git**
 [Nesneler İle Etkileşim](https://github.com/thatsquecy/hurricane-vr-turkce-rehber)
+
 [Nesnelerin Tutulması Sırasında Ellerin Pozisyonları](https://github.com/thatsquecy/hurricane-vr-turkce-rehber)
+
 [Nesnelerin Etkileşim Detayları](https://github.com/thatsquecy/hurricane-vr-turkce-rehber)
 
 
