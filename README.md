@@ -10,7 +10,7 @@
 > [Kod Düzenleyicisi İndir](https://code.visualstudio.com)
 
 ## Tıkla-Git.
-- [Nesneler İle Etkileşim]([https://github.com/thatsquecy/hurricane-vr-turkce-rehber](https://github.com/thatsquecy/hurricane-vr-turkce-rehber/blob/main/README.md#nesneler-ile-etkileşim))
+- [Nesneler İle Etkileşim](https://github.com/thatsquecy/hurricane-vr-turkce-rehber/blob/main/README.md#nesneler-ile-etkileşim)
 - [Nesnelerin Tutulması Sırasında Ellerin Pozisyonları](https://github.com/thatsquecy/hurricane-vr-turkce-rehber)
 - [Nesnelerin Etkileşim Detayları](https://github.com/thatsquecy/hurricane-vr-turkce-rehber)
 - [Tırmanma Mekaniği](https://github.com/thatsquecy/hurricane-vr-turkce-rehber)
