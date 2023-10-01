@@ -18,7 +18,6 @@
 - [Kesici, Delici Aletlerin Saplanma Mekaniği](https://github.com/thatsquecy/hurricane-vr-turkce-rehber)
 
 ## Nesneler ile Etkileşim
-Kullanıcı nesneler ile etkileşim haline geçmesi için belirli gereksinimlere ihtiyaç duyar, bu gereksinimler sırasıyla; etkileşime geçilecek nesnenin fizik kurallarına(RigidBody) ve içinden geçilmemesi adına bir yüzeysel sınıra(Collision) sahip olması, ek olarak VR sistemimizin onu algılayabilmesi için bir kod bütününe(Grabbable Scripti) ihtiyacı vardır. Oyuncunun aktif senaryo içerisinde kullandığı kumandalara ek bir el modeli vermek istenildiği durumlarda da kod bütünü dışında aynı gereksinimler bulunmaktadır.
-
+Kullanıcı nesneler ile etkileşim haline geçmesi için belirli gereksinimlere ihtiyaç duyar, bu gereksinimler sırasıyla; etkileşime geçilecek nesnenin fizik kurallarına(RigidBody) ve içinden geçilmemesi adına bir yüzeysel sınıra(Collision) sahip olması, ek olarak VR sistemimizin onu algılayabilmesi için bir kod bütününe(Grabbable Scripti) ihtiyacı vardır. Oyuncunun aktif senaryo içerisinde kullandığı kumandalara ek bir el modeli vermek istenildiği durumlarda da kod bütünü dışında aynı gereksinimler bulunmaktadır. Bu bahsettiklerimizi nasıl sırasıyla basit şekilde ekleyeceğinizi aşağıya doğru indikçe rahatlıkla anlayacaksınız.
 
 (...)
