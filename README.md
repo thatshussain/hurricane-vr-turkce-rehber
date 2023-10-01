@@ -17,9 +17,7 @@
 - [Eşyalar İçin Yuva Sistemi](https://github.com/thatsquecy/hurricane-vr-turkce-rehber)
 - [Kesici, Delici Aletlerin Saplanma Mekaniği](https://github.com/thatsquecy/hurricane-vr-turkce-rehber)
 
-### Dikkat Edilmesi Gerekenler ve Genel Rehber.
-
-## -Nesneler ile Etkileşim-
+## Nesneler ile Etkileşim
 Kullanıcı nesneler ile etkileşim haline geçmesi için belirli gereksinimlere ihtiyaç duyar, bu gereksinimler sırasıyla; etkileşime geçilecek nesnenin fizik kurallarına(RigidBody) ve içinden geçilmemesi adına bir yüzeysel sınıra(Collision) sahip olması, ek olarak VR sistemimizin onu algılayabilmesi için bir kod bütününe(Grabbable Scripti) ihtiyacı vardır. Oyuncunun aktif senaryo içerisinde kullandığı kumandalara ek bir el modeli vermek istenildiği durumlarda da kod bütünü dışında aynı gereksinimler bulunmaktadır.
 
 
