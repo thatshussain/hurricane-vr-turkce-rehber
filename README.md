@@ -20,4 +20,8 @@
 ## Nesneler ile Etkileşim
 Kullanıcı nesneler ile etkileşim haline geçmesi için belirli gereksinimlere ihtiyaç duyar, bu gereksinimler sırasıyla; etkileşime geçilecek nesnenin fizik kurallarına(RigidBody) ve içinden geçilmemesi adına bir yüzeysel sınıra(Collision) sahip olması, ek olarak VR sistemimizin onu algılayabilmesi için bir kod bütününe(Grabbable Scripti) ihtiyacı vardır. Oyuncunun aktif senaryo içerisinde kullandığı kumandalara ek bir el modeli vermek istenildiği durumlarda da kod bütünü dışında aynı gereksinimler bulunmaktadır. Bu bahsettiklerimizi nasıl sırasıyla basit şekilde ekleyeceğinizi aşağıya doğru indikçe rahatlıkla anlayacaksınız.
 
-(...)
+Öncelikle bir nesneyi nasıl fizik kurallarına entegre edeceğimizi ve yüzeysel sınıra sahip hale getirebileceğimizi inceleyelim. Unity'nin halihazırda sunmuş olduğu RigidBody ve Collider çeşitleri ile bu işleri halledeceğiz, örnek olarak farklı bir uygulama üzerinden oyunumuzda kullanacağımız modelinin çıktısını hazırladık ve Unity'e geçirdik. Unity'e geçmesinden itibaren model rahatlıkla kullanıcı gözünden görülebiliyor fakat herhangi bir şekilde fizik motorundan etkilenerek olduğu yerden kıpırdamıyor veya oyuncular bu nesnenin içerisinden geçebiliyorsa Rigidbody ve Collider eksikliğinden kaynaklıdır. Bu özellikleri nesnemize eklemek için Hierarchy penceresinden üzerine tıkladıktan sonra Inspector kısmından Add Component butonunu kullanıyoruz. Sırasıyla Rigidbody ve uygun Collider çeşitlerini nesnemize ekliyoruz.
+
+![image](https://github.com/thatsquecy/hurricane-vr-turkce-rehber/assets/48627621/a448f5a0-b810-4917-8c14-c4ec4e6bcd34)
+![image](https://github.com/thatsquecy/hurricane-vr-turkce-rehber/assets/48627621/58cbab30-d280-464c-8bbd-c810b7efbcc1)
+
