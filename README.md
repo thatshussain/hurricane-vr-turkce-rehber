@@ -32,5 +32,26 @@ Rigidbody ve Collision eklentilerimizi ekledikten sonra Inspector penceresinde g
 
 ![image](https://github.com/thatsquecy/hurricane-vr-turkce-rehber/assets/48627621/be307e78-7b77-41a6-9c9f-b9f1b2d89e8d)
 
+Bütün bu işlemlerin ardından nesnemiz artık bir fiziğe sahip olacak, belirlediğiniz sınır yüzeyler kullanıcılar ve diğer nesnelerin ana nesnenin içinden geçmesini engelleyecektir. **(İç içe girmemesini istediğiniz bütün objelere Collision vermek zorundasınız, eğer ki diğer nesnelerin Collision'a sahip olmadığı sadece ana nesnenin Collision eklentisi barındırdığı durumda herhangi bir probleminiz çözülmeyecektir.)** Sırada Hurricane VR eklentisinin sunduğu Grabbable kod bütününü nesnemize uygulayarak onun kontrolcülerde atanan kavrama butonları aracılığıyla etkileşime geçebilir hale gelmesini sağlayacağız.
 
+(...)
 
+## Nesnelerin Tutulması Sırasında Ellerin Pozisyonları
+
+(...)
+
+## Nesnelerin Etkileşim Detayları
+
+(...)
+
+## Tırmanma Mekaniği
+
+(...)
+
+## Eşyalar İçin Yuva Sistemi
+
+(...)
+
+## Kesici, Delici Aletlerin Sağlanma Mekaniği
+
+(...)
