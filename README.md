@@ -38,20 +38,30 @@ Bütün bu işlemlerin ardından nesnemiz artık bir fiziğe sahip olacak, belir
 
 ## Nesnelerin Tutulması Sırasında Ellerin Pozisyonları
 
+HVR Grabbable ile orantılı şekilde çalışan HVR Posing menüsü ToolBar'dan istenilen şekilde açılıp belirlenen nesneye otomatik olarak kurulum sağlanabilecek durumdadır. HandPose'larını ayarlayacağınız nesnesin eğer ki Collider'larını sağlıklı bir şekilde düzenlediyseniz HVR Posing menüsünün sağladığı Auto Pose özelliği sayesinde detaylı uğraş sarf etmeden kayıt alabilirsiniz.
+
 (...)
 
 ## Nesnelerin Etkileşim Detayları
+
+Nesneler ile etkileşimin kendince fonksiyonları bulunmaktadır, Line Grab ve benzeri özellikler Hurricane VR'ın eklenti paketi içerisinde halihazırda gelmektedir. Nesnenin belirlenen HandPose konumları dışında Collider'ın istenilen bölgesinden tutulabilmesini sağlayan özelliklerden birisi Line Grab'tir. HVR Grabbable içerisinden tercihe yönelik olarak ayarlanabilir.
 
 (...)
 
 ## Tırmanma Mekaniği
 
+HVR Climbable belirlenen nesneyi destek alınarak sanal gerçeklik kontrolcüsü aracılığıyla tırmanılabilir hale getirmektedir.
+
 (...)
 
 ## Eşyalar İçin Yuva Sistemi
 
+HVR Socket kod bütünü belirlediğiniz görünüme ve etkileşim alanına sahip nesneyi bir soket haline getirir ve HVR Socket Filter Tag aracılığıyla bu sokete eşyaları oturtabilmenize olanak sağlar. Çanta, dolap ve harici eşya taşıyan diğer bütün nesnelerde rahatlıkla kullanılabilir. Net bir görünüme sahip olması veyahut sahnede Mesh Renderer'ı bulunması önemli değildir. Hazırladığınız senaryoya göre kullanıcının soketleri algılayabilmesi için bir çember hazırlar, ilk öğrenim sonrasında bunları kaldırtabilirsiniz. Eğer ki nasıl yapacağınız konusunda fikire sahip değilseniz konunun güncellenmesini ve paylaşılacak diğer kod bütünlerinin bitirilmesini bekleyiniz.
+
 (...)
 
 ## Kesici, Delici Aletlerin Sağlanma Mekaniği
+
+HVR Stabbable belirlenen nesnenin diğer bir nesne ile iç içe geçmesine, belki de saplanmasına sebep olacak kod bütünüdür. Bütün detayları kolaylıkla düzenlenebilmektedir, Hurricane VR'ın sunduğu demolardan bu kod bütününe ait 3 farklı saplanma sürümünü deneyebilirsiniz.
 
 (...)
