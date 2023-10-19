@@ -9,6 +9,8 @@
 
 > [Kod Düzenleyicisi İndir](https://code.visualstudio.com)
 
+> [Hurricane VR'ın Kendi Basit Rehberine Gitmek İçin Tıkla.](https://cloudwalker2020.github.io/HurricaneVR-Docs/manual/intro.html)
+
 ## Tıkla-Git.
 - [Nesneler İle Etkileşim](https://github.com/thatsquecy/hurricane-vr-turkce-rehber/blob/main/README.md#nesneler-ile-etkileşim)
 - [Nesnelerin Tutulması Sırasında Ellerin Pozisyonları](https://github.com/thatsquecy/hurricane-vr-turkce-rehber)
