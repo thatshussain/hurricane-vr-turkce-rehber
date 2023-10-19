@@ -60,7 +60,7 @@ HVR Socket kod bütünü belirlediğiniz görünüme ve etkileşim alanına sahi
 
 (...)
 
-## Kesici, Delici Aletlerin Sağlanma Mekaniği
+## Kesici, Delici Aletlerin Saplanma Mekaniği
 
 HVR Stabbable belirlenen nesnenin diğer bir nesne ile iç içe geçmesine, belki de saplanmasına sebep olacak kod bütünüdür. Bütün detayları kolaylıkla düzenlenebilmektedir, Hurricane VR'ın sunduğu demolardan bu kod bütününe ait 3 farklı saplanma sürümünü deneyebilirsiniz.
 
